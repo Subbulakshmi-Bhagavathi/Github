@@ -1,0 +1,135 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/rd/uedata"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/8ec91cd3-5f00-47c6-8c37-1119c63bf576.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8ec91cd3-5f00-47c6-8c37-1119c63bf576">
+    <embedded-action>982dfb23-3b75-40d1-8fbc-24eab067305f</embedded-action>
+    <embedded-action>4605e112-cd06-41ca-862a-b67357600917</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_54ef9967-06f6-486e-9261-6a0767e3a106.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    eTag="&quot;47-629fd114d3080-gzip&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 24 Dec 2024 05:05:54 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/rd/uedata" path="/rd/uedata" postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/8ec91cd3-5f00-47c6-8c37-1119c63bf576.zip"
+    recordedResponseCode="200" responseSize="71"
+    serverUid="www.amazon.com" slaProfileEnabled="false"
+    uid="982dfb23-3b75-40d1-8fbc-24eab067305f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f242b136-bff1-4c68-a256-2f8f345e88b9.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f242b136-bff1-4c68-a256-2f8f345e88b9.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="at"
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="0.302987.0" separator="=" value="0.302987.0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="QESRHDY8HJFVEXHJZZH7" separator="="
+        value="QESRHDY8HJFVEXHJZZH7" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sc"
+        recordRawValue="rx" separator="=" value="rx" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pc"
+        recordRawValue="3584" separator="=" value="3584" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="at"
+        recordRawValue="3584" separator="=" value="3584" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="t"
+        recordRawValue="1735821172096" separator="="
+        value="1735821172096" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="csmtags"
+        recordRawValue="has-strong-interaction" separator="="
+        value="has-strong-interaction" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pty"
+        recordRawValue="Gateway" separator="=" value="Gateway" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="spty"
+        recordRawValue="desktop" separator="=" value="desktop" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pti"
+        recordRawValue="desktop" separator="=" value="desktop" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tid"
+        recordRawValue="QESRHDY8HJFVEXHJZZH7" separator="="
+        value="QESRHDY8HJFVEXHJZZH7" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aftb"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="lob"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.amazon.com/"/>
+    <header name="sec-ch-viewport-width" value="1912"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="session-id=140-2148316-2290569; i18n-prefs=USD; sp-cdn=&quot;L5Z9:IN&quot;; ubid-main=132-3672742-8898456; skin=noskin; session-id-time=2082787201l; JSESSIONID=025AD4E8A108CAAE570E06E3BB38A7B5; session-token=wRPXGCaZpvux3V1GvVXSA1N+UQ9sK18JcQc02jceQtetw+Q53oRCIAZ97XXgLUw2G8ZWawJNxCNxKueMe6Bzsrbjcb1ajDDRQvdoV+9LwMqWKwN9TL9PX8ttJekxQoX7V+yqmABPVY7RejeLaG6v0w0Tyyyufltz3DH+iy6xO0K1z0gdFu6CvSkLZLflmV8RLEBeEVds05fbVmLXrKNuYtcGDcMFbxtLm2J7C+g0sIcLw1Aq39ZqcA/2s6WKIJhahAKBr8f81ZqtMOL6J7nqC6rPdQALpAQPsDBWqc0Q2JJHMGTGHJb3gBxsFrfdqYXlzb7jSjZp5uaZAQR4YLr6aZ2IFWZOYzSY; csm-hit=tb:s-QESRHDY8HJFVEXHJZZH7|1735821168707&amp;t:1735821169312&amp;adb:adblk_no"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="downlink" value="7.9"/>
+    <header name="dpr" value="1"/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="device-memory" value="8"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="100"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-dpr" value="1"/>
+    <header name="viewport-width" value="1912"/>
+    <header name="ect" value="4g"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-device-memory" value="8"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/html&#xd;
+server: Server&#xd;
+date: Thu, 02 Jan 2025 12:32:53 GMT&#xd;
+x-amz-rid: 2X5W0XHPWEHDVAS3S1KK&#xd;
+strict-transport-security: max-age=47474747; includeSubDomains; preload&#xd;
+vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+last-modified: Tue, 24 Dec 2024 05:05:54 GMT&#xd;
+etag: "47-629fd114d3080-gzip"&#xd;
+accept-ranges: bytes&#xd;
+content-encoding: gzip&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 fcc5d2d615e3904d2f9b279dd96de872.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: BLR50-P2&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: 5BG5VPtmWP-lJu-rF0VIj6BaL2GbVnVbnpniTXMB9MNDboLrjOj_ig==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/1/batch/1/OP/ATVPDKIKX0DER:140-2148316-2290569:QESRHDY8HJFVEXHJZZH7$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.302987.0%26id%3DQESRHDY8HJFVEXHJZZH7%26m%3D1%26sc%3Drx%26pc%3D3584%26at%3D3584%26t%3D1735821172096%26csmtags%3Dhas-strong-interaction%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3DQESRHDY8HJFVEXHJZZH7%26aftb%3D1%26lob%3D1:3583"
+    path="/1/batch/1/OP/ATVPDKIKX0DER:140-2148316-2290569:QESRHDY8HJFVEXHJZZH7$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.302987.0%26id%3DQESRHDY8HJFVEXHJZZH7%26m%3D1%26sc%3Drx%26pc%3D3584%26at%3D3584%26t%3D1735821172096%26csmtags%3Dhas-strong-interaction%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3DQESRHDY8HJFVEXHJZZH7%26aftb%3D1%26lob%3D1:3583"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/8ec91cd3-5f00-47c6-8c37-1119c63bf576.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="fls-na.amazon.com" slaProfileEnabled="false"
+    uid="4605e112-cd06-41ca-862a-b67357600917" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_cca2d741-6fff-4a1b-98c1-396eafc3268d.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="session-id=140-2148316-2290569; i18n-prefs=USD; sp-cdn=&quot;L5Z9:IN&quot;; ubid-main=132-3672742-8898456; skin=noskin; session-id-time=2082787201l; session-token=wRPXGCaZpvux3V1GvVXSA1N+UQ9sK18JcQc02jceQtetw+Q53oRCIAZ97XXgLUw2G8ZWawJNxCNxKueMe6Bzsrbjcb1ajDDRQvdoV+9LwMqWKwN9TL9PX8ttJekxQoX7V+yqmABPVY7RejeLaG6v0w0Tyyyufltz3DH+iy6xO0K1z0gdFu6CvSkLZLflmV8RLEBeEVds05fbVmLXrKNuYtcGDcMFbxtLm2J7C+g0sIcLw1Aq39ZqcA/2s6WKIJhahAKBr8f81ZqtMOL6J7nqC6rPdQALpAQPsDBWqc0Q2JJHMGTGHJb3gBxsFrfdqYXlzb7jSjZp5uaZAQR4YLr6aZ2IFWZOYzSY"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Thu, 02 Jan 2025 12:32:52 GMT&#xd;
+content-type: image/gif&#xd;
+content-length: 43&#xd;
+x-amzn-requestid: 2ef78aba-d26c-48f0-928c-c10535979221</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

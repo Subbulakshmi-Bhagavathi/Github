@@ -1,0 +1,241 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/rd/uedata"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/1840451e-5297-40fd-8e39-29695e6cc82f.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1840451e-5297-40fd-8e39-29695e6cc82f">
+    <embedded-action>20b79ecd-e2f8-4ac8-9571-d1cd35e96c8e</embedded-action>
+    <embedded-action>e11783ad-f0e4-4e71-8b55-25e5f9f1c7db</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_1bdbc722-007b-4afb-9682-e0a788a75b4f.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    eTag="&quot;47-629fd114d3080-gzip&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 24 Dec 2024 05:05:54 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/rd/uedata" path="/rd/uedata" postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/1840451e-5297-40fd-8e39-29695e6cc82f.zip"
+    recordedResponseCode="200" responseSize="71"
+    serverUid="www.amazon.com" slaProfileEnabled="false"
+    uid="20b79ecd-e2f8-4ac8-9571-d1cd35e96c8e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a2354254-8cfa-4899-9b57-201dd08cabf2.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a2354254-8cfa-4899-9b57-201dd08cabf2.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="ul"
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="0.302987.0" separator="=" value="0.302987.0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="QEEWDTFHACP9RX96WCE3" separator="="
+        value="QEEWDTFHACP9RX96WCE3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sc"
+        recordRawValue="QEEWDTFHACP9RX96WCE3" separator="="
+        value="QEEWDTFHACP9RX96WCE3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ue"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="bb"
+        recordRawValue="116" separator="=" value="116" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ns"
+        recordRawValue="132" separator="=" value="132" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ne"
+        recordRawValue="206" separator="=" value="206" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="x1"
+        recordRawValue="843" separator="=" value="843" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="af"
+        recordRawValue="1443" separator="=" value="1443" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fn"
+        recordRawValue="1603" separator="=" value="1603" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cf"
+        recordRawValue="2474" separator="=" value="2474" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="be"
+        recordRawValue="2706" separator="=" value="2706" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fp"
+        recordRawValue="177" separator="=" value="177" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fcp"
+        recordRawValue="177" separator="=" value="177" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pc"
+        recordRawValue="4607" separator="=" value="4607" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tc"
+        recordRawValue="-868" separator="=" value="-868" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="na_"
+        recordRawValue="-868" separator="=" value="-868" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ul_"
+        recordRawValue="-1735821181354" separator="="
+        value="-1735821181354" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_ul"
+        recordRawValue="-1735821181354" separator="="
+        value="-1735821181354" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rd_"
+        recordRawValue="-860" separator="=" value="-860" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_rd"
+        recordRawValue="-462" separator="=" value="-462" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fe_"
+        recordRawValue="-462" separator="=" value="-462" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="lk_"
+        recordRawValue="-462" separator="=" value="-462" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_lk"
+        recordRawValue="-462" separator="=" value="-462" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="co_"
+        recordRawValue="-462" separator="=" value="-462" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_co"
+        recordRawValue="-462" separator="=" value="-462" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sc_"
+        recordRawValue="-1735821181354" separator="="
+        value="-1735821181354" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rq_"
+        recordRawValue="-458" separator="=" value="-458" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rs_"
+        recordRawValue="-21" separator="=" value="-21" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_rs"
+        recordRawValue="2379" separator="=" value="2379" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="dl_"
+        recordRawValue="-10" separator="=" value="-10" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="di_"
+        recordRawValue="2769" separator="=" value="2769" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="de_"
+        recordRawValue="2769" separator="=" value="2769" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_de"
+        recordRawValue="2821" separator="=" value="2821" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_dc"
+        recordRawValue="4562" separator="=" value="4562" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ld_"
+        recordRawValue="-1735821181354" separator="="
+        value="-1735821181354" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_ld"
+        recordRawValue="-1735821181354" separator="="
+        value="-1735821181354" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ntd"
+        recordRawValue="-1" separator="=" value="-1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ty"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rc"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hob"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hoe"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ul"
+        recordRawValue="4608" separator="=" value="4608" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="t"
+        recordRawValue="1735821185962" separator="="
+        value="1735821185962" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ctb"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="rt"
+        recordRawValue="cf:136-17-44-57-4-82-1_af:70-5-37-16-3-30-1_"
+        separator="="
+        value="cf:136-17-44-57-4-82-1_af:70-5-37-16-3-30-1_" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="csmtags"
+        recordRawValue="aui|aui:aui_build_date:3.24.10-2024-12-17|ewc:persist|ewc:bview|ewc|ewc:unrec|ewc:cartsize:1-10|ewc:aui|navbar|aui:css:cache|aui:js:cache|adrender:cf81795d-ef39-406a-ad7e-6538fcad65f8|adrender:Detail:desktop-detail-ilm:desktop|adrender:safeframe:cf81795d-ef39-406a-ad7e-6538fcad65f8|adrender:safeframe:Detail:desktop-detail-ilm:desktop|adrender:cf81795d-ef39-406a-ad7e-6538fcad65f8:creativetemplatename:dynamicecommercesdciusdesktop|adrender:Detail:desktop-detail-ilm:desktop:creativetemplatename:dynamicecommercesdciusdesktop|adrender:cf81795d-ef39-406a-ad7e-6538fcad65f8:creativeid:0|adrender:Detail:desktop-detail-ilm:desktop:creativeid:0|adrender:cf81795d-ef39-406a-ad7e-6538fcad65f8:programid:1027|adrender:Detail:desktop-detail-ilm:desktop:programid:1027|desktop-html-atf-marker|adrender:6f9d2c58-5baa-4a99-99fc-663245286f7f|adrender:Detail:ams-detail-right-v2:desktop|adrender:safeframe:6f9d2c58-5baa-4a99-99fc-663245286f7f|adrender:safeframe:Detail:ams-detail-right-v2:desktop|adrender:6f9d2c58-5baa-4a99-99fc-663245286f7f:creativetemplatename:dynamicecommercesdciusdesktop|adrender:Detail:ams-detail-right-v2:desktop:creativetemplatename:dynamicecommercesdciusdesktop|adrender:6f9d2c58-5baa-4a99-99fc-663245286f7f:creativeid:0|adrender:Detail:ams-detail-right-v2:desktop:creativeid:0|adrender:6f9d2c58-5baa-4a99-99fc-663245286f7f:programid:1027|adrender:Detail:ams-detail-right-v2:desktop:programid:1027|tnr-imageBlock-marked|tnr-imageBlock-imageBlock-seen|tnr-atc-marked|tnr-atc-atc-declarative-dp-pre-atc-declarative-seen|pwFeatureToggleJSLoaded|pwBuyBoxJSLoaded|buyingOptionNostos|color_name|defaultSelection|swatch|swatch:defaultSelection|sIMAGE|sIMAGE:defaultSelection|family_size_bucket:3-8|family_size_bucket:3-8:defaultSelection|family_size_bucket:3-8:swatch|family_size_bucket:3-8:swatch:defaultSelection|family_size_bucket:3-8:sIMAGE|family_size_bucket:3-8:sIMAGE:defaultSelection|variation_dimension:1|variation_dimension:1:defaultSelection|variation_dimension:1:swatch|variation_dimension:1:swatch:defaultSelection|variation_dimension:1:sIMAGE|variation_dimension:1:sIMAGE:defaultSelection|variation_dimension:1:family_size_bucket:3-8|variation_dimension:1:family_size_bucket:3-8:defaultSelection|variation_dimension:1:family_size_bucket:3-8:swatch|variation_dimension:1:family_size_bucket:3-8:swatch:defaultSelection|variation_dimension:1:family_size_bucket:3-8:sIMAGE|variation_dimension:1:family_size_bucket:3-8:sIMAGE:defaultSelection|image_size_bucket:0-50|immersiveViewNotAvailable|DPCIFBuyable|DPCIFLongPoleimageblock|aui:ajax|auiCached|FWCIMEnabled|fls-na-amazon-com|adblk_no|cf_cdn_fr|cf_cdn_mp|pwTimerJSLoaded|isNotPWExperienceEnabled|pwTwisterDesktopJSLoaded|csm-feature-touch-enabled:false|adrender:a5a58631-9157-450d-8b12-21b15ea5926d|adrender:Detail:customer-reviews-top:Glance|adrender:safeframe:a5a58631-9157-450d-8b12-21b15ea5926d|adrender:safeframe:Detail:customer-reviews-top:Glance|adrender:a5a58631-9157-450d-8b12-21b15ea5926d:creativetemplatename:unknown|adrender:Detail:customer-reviews-top:Glance:creativetemplatename:unknown|adrender:a5a58631-9157-450d-8b12-21b15ea5926d:creativeid:-1924146692|adrender:Detail:customer-reviews-top:Glance:creativeid:-1924146692|adrender:a5a58631-9157-450d-8b12-21b15ea5926d:programid:1024|adrender:Detail:customer-reviews-top:Glance:programid:1024|adrender:6e8849f7-64c3-45e5-a732-d4ef8c06246b|adrender:Detail:ad-endcap-1:Glance|adrender:safeframe:6e8849f7-64c3-45e5-a732-d4ef8c06246b|adrender:safeframe:Detail:ad-endcap-1:Glance|adrender:6e8849f7-64c3-45e5-a732-d4ef8c06246b:creativetemplatename:unknown|adrender:Detail:ad-endcap-1:Glance:creativetemplatename:unknown|adrender:6e8849f7-64c3-45e5-a732-d4ef8c06246b:creativeid:-1194703368|adrender:Detail:ad-endcap-1:Glance:creativeid:-1194703368|adrender:6e8849f7-64c3-45e5-a732-d4ef8c06246b:programid:1024|adrender:Detail:ad-endcap-1:Glance:programid:1024|aui:sw:page_proxy:request_feature_tags:timed_out"
+        separator="="
+        value="aui|aui:aui_build_date:3.24.10-2024-12-17|ewc:persist|ewc:bview|ewc|ewc:unrec|ewc:cartsize:1-10|ewc:aui|navbar|aui:css:cache|aui:js:cache|adrender:cf81795d-ef39-406a-ad7e-6538fcad65f8|adrender:Detail:desktop-detail-ilm:desktop|adrender:safeframe:cf81795d-ef39-406a-ad7e-6538fcad65f8|adrender:safeframe:Detail:desktop-detail-ilm:desktop|adrender:cf81795d-ef39-406a-ad7e-6538fcad65f8:creativetemplatename:dynamicecommercesdciusdesktop|adrender:Detail:desktop-detail-ilm:desktop:creativetemplatename:dynamicecommercesdciusdesktop|adrender:cf81795d-ef39-406a-ad7e-6538fcad65f8:creativeid:0|adrender:Detail:desktop-detail-ilm:desktop:creativeid:0|adrender:cf81795d-ef39-406a-ad7e-6538fcad65f8:programid:1027|adrender:Detail:desktop-detail-ilm:desktop:programid:1027|desktop-html-atf-marker|adrender:6f9d2c58-5baa-4a99-99fc-663245286f7f|adrender:Detail:ams-detail-right-v2:desktop|adrender:safeframe:6f9d2c58-5baa-4a99-99fc-663245286f7f|adrender:safeframe:Detail:ams-detail-right-v2:desktop|adrender:6f9d2c58-5baa-4a99-99fc-663245286f7f:creativetemplatename:dynamicecommercesdciusdesktop|adrender:Detail:ams-detail-right-v2:desktop:creativetemplatename:dynamicecommercesdciusdesktop|adrender:6f9d2c58-5baa-4a99-99fc-663245286f7f:creativeid:0|adrender:Detail:ams-detail-right-v2:desktop:creativeid:0|adrender:6f9d2c58-5baa-4a99-99fc-663245286f7f:programid:1027|adrender:Detail:ams-detail-right-v2:desktop:programid:1027|tnr-imageBlock-marked|tnr-imageBlock-imageBlock-seen|tnr-atc-marked|tnr-atc-atc-declarative-dp-pre-atc-declarative-seen|pwFeatureToggleJSLoaded|pwBuyBoxJSLoaded|buyingOptionNostos|color_name|defaultSelection|swatch|swatch:defaultSelection|sIMAGE|sIMAGE:defaultSelection|family_size_bucket:3-8|family_size_bucket:3-8:defaultSelection|family_size_bucket:3-8:swatch|family_size_bucket:3-8:swatch:defaultSelection|family_size_bucket:3-8:sIMAGE|family_size_bucket:3-8:sIMAGE:defaultSelection|variation_dimension:1|variation_dimension:1:defaultSelection|variation_dimension:1:swatch|variation_dimension:1:swatch:defaultSelection|variation_dimension:1:sIMAGE|variation_dimension:1:sIMAGE:defaultSelection|variation_dimension:1:family_size_bucket:3-8|variation_dimension:1:family_size_bucket:3-8:defaultSelection|variation_dimension:1:family_size_bucket:3-8:swatch|variation_dimension:1:family_size_bucket:3-8:swatch:defaultSelection|variation_dimension:1:family_size_bucket:3-8:sIMAGE|variation_dimension:1:family_size_bucket:3-8:sIMAGE:defaultSelection|image_size_bucket:0-50|immersiveViewNotAvailable|DPCIFBuyable|DPCIFLongPoleimageblock|aui:ajax|auiCached|FWCIMEnabled|fls-na-amazon-com|adblk_no|cf_cdn_fr|cf_cdn_mp|pwTimerJSLoaded|isNotPWExperienceEnabled|pwTwisterDesktopJSLoaded|csm-feature-touch-enabled:false|adrender:a5a58631-9157-450d-8b12-21b15ea5926d|adrender:Detail:customer-reviews-top:Glance|adrender:safeframe:a5a58631-9157-450d-8b12-21b15ea5926d|adrender:safeframe:Detail:customer-reviews-top:Glance|adrender:a5a58631-9157-450d-8b12-21b15ea5926d:creativetemplatename:unknown|adrender:Detail:customer-reviews-top:Glance:creativetemplatename:unknown|adrender:a5a58631-9157-450d-8b12-21b15ea5926d:creativeid:-1924146692|adrender:Detail:customer-reviews-top:Glance:creativeid:-1924146692|adrender:a5a58631-9157-450d-8b12-21b15ea5926d:programid:1024|adrender:Detail:customer-reviews-top:Glance:programid:1024|adrender:6e8849f7-64c3-45e5-a732-d4ef8c06246b|adrender:Detail:ad-endcap-1:Glance|adrender:safeframe:6e8849f7-64c3-45e5-a732-d4ef8c06246b|adrender:safeframe:Detail:ad-endcap-1:Glance|adrender:6e8849f7-64c3-45e5-a732-d4ef8c06246b:creativetemplatename:unknown|adrender:Detail:ad-endcap-1:Glance:creativetemplatename:unknown|adrender:6e8849f7-64c3-45e5-a732-d4ef8c06246b:creativeid:-1194703368|adrender:Detail:ad-endcap-1:Glance:creativeid:-1194703368|adrender:6e8849f7-64c3-45e5-a732-d4ef8c06246b:programid:1024|adrender:Detail:ad-endcap-1:Glance:programid:1024|aui:sw:page_proxy:request_feature_tags:timed_out" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="viz"
+        recordRawValue="visible:2" separator="=" value="visible:2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pty"
+        recordRawValue="Detail" separator="=" value="Detail" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="spty"
+        recordRawValue="Glance" separator="=" value="Glance" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pti"
+        recordRawValue="B0C2SWQBMB" separator="=" value="B0C2SWQBMB" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tid"
+        recordRawValue="QESRHDY8HJFVEXHJZZH7" separator="="
+        value="QESRHDY8HJFVEXHJZZH7" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aftb"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ui"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="lob"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.amazon.com/Motorola-Unlocked-128GB-MPCamera-163-94x74-98x8-39/dp/B0C2SWQBMB/ref=sr_1_1_sspa?crid=O13V2LXMMM80&amp;dib=eyJ2IjoiMSJ9.Vp-ma2M9nNeTqLdK9Pb13q6A8SJgyYCPcTJi8ttfJhBNKeCIkVtJO-i-jdvC1igUf1ZA13VIQiB6GwtBJfD2Rkq3DI9eqSUKdJb4uFsGi7Z83E-JYdYujPdKg09HEGh4S19pYRwg-8BLwuSGC84rZmSB7hbB-LVpBqEF2-0S0z7H4q-PysMVKrMoJIAtZ4Gru3su6HoSrCku4htP5YnPbC9TM2lcUnMso9tOLKKjc5U.BdSv2cKKSYL6a-LPC9qsW4S1fuNUKpx3LL1-cwQpqnI&amp;dib_tag=se&amp;keywords=mobile%2Bphones&amp;qid=1735821176&amp;sprefix=%2Caps%2C293&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1"/>
+    <header name="sec-ch-viewport-width" value="1912"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="session-id=140-2148316-2290569; i18n-prefs=USD; sp-cdn=&quot;L5Z9:IN&quot;; ubid-main=132-3672742-8898456; skin=noskin; session-id-time=2082787201l; JSESSIONID=025AD4E8A108CAAE570E06E3BB38A7B5; session-token=wRPXGCaZpvux3V1GvVXSA1N+UQ9sK18JcQc02jceQtetw+Q53oRCIAZ97XXgLUw2G8ZWawJNxCNxKueMe6Bzsrbjcb1ajDDRQvdoV+9LwMqWKwN9TL9PX8ttJekxQoX7V+yqmABPVY7RejeLaG6v0w0Tyyyufltz3DH+iy6xO0K1z0gdFu6CvSkLZLflmV8RLEBeEVds05fbVmLXrKNuYtcGDcMFbxtLm2J7C+g0sIcLw1Aq39ZqcA/2s6WKIJhahAKBr8f81ZqtMOL6J7nqC6rPdQALpAQPsDBWqc0Q2JJHMGTGHJb3gBxsFrfdqYXlzb7jSjZp5uaZAQR4YLr6aZ2IFWZOYzSY; csm-hit=tb:QESRHDY8HJFVEXHJZZH7+s-QEEWDTFHACP9RX96WCE3|1735821185912&amp;t:1735821185912&amp;adb:adblk_no"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="downlink" value="10"/>
+    <header name="dpr" value="1"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="device-memory" value="8"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="250"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-dpr" value="1"/>
+    <header name="viewport-width" value="1912"/>
+    <header name="ect" value="4g"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="cache-control" value="max-age=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-device-memory" value="8"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/html&#xd;
+server: Server&#xd;
+date: Thu, 02 Jan 2025 12:33:06 GMT&#xd;
+x-amz-rid: 5T8RV74BEJJN66NZTMA5&#xd;
+strict-transport-security: max-age=47474747; includeSubDomains; preload&#xd;
+vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+last-modified: Tue, 24 Dec 2024 05:05:54 GMT&#xd;
+etag: "47-629fd114d3080-gzip"&#xd;
+accept-ranges: bytes&#xd;
+content-encoding: gzip&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 fcc5d2d615e3904d2f9b279dd96de872.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: BLR50-P2&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: i0GvPlJYLGBdg50xsaRjOxi0HMpszr5pco7yNemtaWLYSi7QooqTbA==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/1/events/com.amazon.csm.nexusclient.prod"
+    path="/1/events/com.amazon.csm.nexusclient.prod" postType="4"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/1840451e-5297-40fd-8e39-29695e6cc82f.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="unagi-na.amazon.com" slaProfileEnabled="false"
+    uid="e11783ad-f0e4-4e71-8b55-25e5f9f1c7db" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8b3bcb95-fff2-46b3-880c-be3f3b86c7d2</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8b3bcb95-fff2-46b3-880c-be3f3b86c7d2.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="text/plain;charset=UTF-8"/>
+    <header name="Cookie" value="session-id=140-2148316-2290569; i18n-prefs=USD; sp-cdn=&quot;L5Z9:IN&quot;; ubid-main=132-3672742-8898456; skin=noskin; session-id-time=2082787201l; session-token=wRPXGCaZpvux3V1GvVXSA1N+UQ9sK18JcQc02jceQtetw+Q53oRCIAZ97XXgLUw2G8ZWawJNxCNxKueMe6Bzsrbjcb1ajDDRQvdoV+9LwMqWKwN9TL9PX8ttJekxQoX7V+yqmABPVY7RejeLaG6v0w0Tyyyufltz3DH+iy6xO0K1z0gdFu6CvSkLZLflmV8RLEBeEVds05fbVmLXrKNuYtcGDcMFbxtLm2J7C+g0sIcLw1Aq39ZqcA/2s6WKIJhahAKBr8f81ZqtMOL6J7nqC6rPdQALpAQPsDBWqc0Q2JJHMGTGHJb3gBxsFrfdqYXlzb7jSjZp5uaZAQR4YLr6aZ2IFWZOYzSY"/>
+    <header name="Host" value="unagi-na.amazon.com"/>
+    <header name="Origin" value="https://www.amazon.com"/>
+    <header name="Referer" value="https://www.amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Server&#xd;
+Date: Thu, 02 Jan 2025 12:33:07 GMT&#xd;
+Content-Type: application/json&#xd;
+Content-Length: 22&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: SKC14J1GYMM3A6PGYJH9&#xd;
+x-amzn-RequestId: d4608874-20b6-4002-9755-92cac745ffba&#xd;
+Access-Control-Allow-Origin: https://www.amazon.com&#xd;
+Content-Encoding: gzip&#xd;
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Vary: Origin,Content-Type,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"cs":{"dct":{"#0":"producerId","#1":"a2i-dpx","#2":"schemaId","#3":"a2i.dpx.WidgetImpressions.3","#4":"pageAsin","#5":"B0C2SWQBMB","#6":"pageType","#7":"DetailAW","#8":"subPageType","#9":"INAffordability","#10":"merchantId","#11":"ATVPDKIKX0DER","#12":"remoteAddress","#13":"isInternal","#14":"isRobot","#15":"server","#16":"www.amazon.com","#17":"refMarker","#18":"social_proofing_faceout_present","#19":"additionalRequestData","#20":"TK_BOUGHT","#21":"timestamp","#22":"messageId","#23":"sessionId","#24":"140-2148316-2290569","#25":"requestId","#26":"QEEWDTFHACP9RX96WCE3","#27":"obfuscatedMarketplaceId"}},"events":[{"data":{"#0":"#1","#2":"#3","#4":"#5","#6":"#7","#8":"#9","#10":"#11","#12":null,"#13":0,"#14":0,"#15":"#16","#17":"#18","#19":"#20","#21":"2025-01-02T12:33:05.524Z","#22":"QEEWDTFHACP9RX96WCE3-1735821185524-0155023083","#23":"#24","#25":"#26","#27":"#11"}}]}]]></textPostContent>
+</http-action>

@@ -1,0 +1,58 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/cem_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/cf418620-6d25-47ae-9755-8a6ef6f6ddb5.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="cf418620-6d25-47ae-9755-8a6ef6f6ddb5">
+    <embedded-action>b9348c52-74f9-490d-9553-82e25f8d8cac</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_5166312e-5a50-4bd4-9fd4-b662ddbab595.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/cem" path="/cem" postType="4"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/cf418620-6d25-47ae-9755-8a6ef6f6ddb5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="aan.amazon.com" slaProfileEnabled="false"
+    uid="b9348c52-74f9-490d-9553-82e25f8d8cac" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_063aadad-5118-4a9b-bf2c-9bf40437a6a9.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://images-na.ssl-images-amazon.com/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://images-na.ssl-images-amazon.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json&#xd;
+content-length: 20&#xd;
+server: Server&#xd;
+date: Thu, 02 Jan 2025 12:33:03 GMT&#xd;
+x-amz-rid: KYKK7Y41SPH0D1H3721T&#xd;
+x-amzn-requestid: fcd5c226-e317-4ecb-b9a6-4244be59e656&#xd;
+access-control-allow-origin: *&#xd;
+content-encoding: gzip&#xd;
+cache-control: no-store&#xd;
+cache-control: must-revalidate&#xd;
+expires: 0&#xd;
+access-control-expose-headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date&#xd;
+pragma: no-cache&#xd;
+vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+strict-transport-security: max-age=47474747; includeSubDomains; preload&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 5c891f7b61b5e0dea14ae01c984bd740.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: BLR50-C2&#xd;
+x-amz-cf-id: oP6HKzcgj5qvpdoMpMdAM36wqp3Ag5zPP8CX6peOJxd3SFleu6EVwQ==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"render_id":"pyanKDUuD5ZBWVcl6-7NLQ","event_type":"performance","dimensions":{"subtype":"displayCreative","value":1,"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0","template_name":"PERC_SD_CI_US_DESKTOP","template_major_version":"0"},"impression_id":"AzdAf2I6UvZ0Y7alqbJ9NQ"}]]></textPostContent>
+</http-action>

@@ -1,0 +1,298 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/acp/cross-border-widget/cross-border-widget-da4f8a9d-7000-4cbd-95b7-4958205b5c50-1735640116519"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/2b1aa395-69ef-4865-a79c-bdcad1333c59.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2b1aa395-69ef-4865-a79c-bdcad1333c59">
+    <embedded-action>906546f5-761e-44b2-a449-40bec618d83e</embedded-action>
+    <embedded-action>b3a53931-7d3c-4c5a-be0f-9e347c0b53e3</embedded-action>
+    <embedded-action>c337da86-3b52-4de9-9914-ae2aa46869e2</embedded-action>
+    <embedded-action>0871a1dc-c7b4-4686-877d-8556a0bfa0cb</embedded-action>
+    <embedded-action>fd5ef7ba-540e-4c9f-a450-03c7654616fe</embedded-action>
+    <embedded-action>024fdf6d-ddc9-4508-af8f-2f225dcc41a4</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_53e7a2cb-98b0-427a-beae-f9f3852befcf.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/acp/cross-border-widget/cross-border-widget-da4f8a9d-7000-4cbd-95b7-4958205b5c50-1735640116519/getValueHTML"
+    path="/acp/cross-border-widget/cross-border-widget-da4f8a9d-7000-4cbd-95b7-4958205b5c50-1735640116519/getValueHTML"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/2b1aa395-69ef-4865-a79c-bdcad1333c59.zip"
+    recordedResponseCode="200" responseSize="199"
+    serverUid="www.amazon.com" slaProfileEnabled="false"
+    uid="906546f5-761e-44b2-a449-40bec618d83e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_479241b7-f762-468a-ba64-590ec70cab8e.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_479241b7-f762-468a-ba64-590ec70cab8e.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="page-type" recordRawValue="Detail" separator="="
+        value="Detail" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="stamp"
+        recordRawValue="1735821182381" separator="="
+        value="1735821182381" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.amazon.com/Motorola-Unlocked-128GB-MPCamera-163-94x74-98x8-39/dp/B0C2SWQBMB/ref=sr_1_1_sspa?crid=O13V2LXMMM80&amp;dib=eyJ2IjoiMSJ9.Vp-ma2M9nNeTqLdK9Pb13q6A8SJgyYCPcTJi8ttfJhBNKeCIkVtJO-i-jdvC1igUf1ZA13VIQiB6GwtBJfD2Rkq3DI9eqSUKdJb4uFsGi7Z83E-JYdYujPdKg09HEGh4S19pYRwg-8BLwuSGC84rZmSB7hbB-LVpBqEF2-0S0z7H4q-PysMVKrMoJIAtZ4Gru3su6HoSrCku4htP5YnPbC9TM2lcUnMso9tOLKKjc5U.BdSv2cKKSYL6a-LPC9qsW4S1fuNUKpx3LL1-cwQpqnI&amp;dib_tag=se&amp;keywords=mobile+phones&amp;qid=1735821176&amp;sprefix=%2Caps%2C293&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="downlink" value="10"/>
+    <header name="origin" value="https://www.amazon.com"/>
+    <header name="device-memory" value="8"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="viewport-width" value="1912"/>
+    <header name="x-amz-amabot-click-attributes" value="disable"/>
+    <header name="ect" value="4g"/>
+    <header name="content-type" value="application/json"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-ch-viewport-width" value="1912"/>
+    <header name="cookie" value="session-id=140-2148316-2290569; i18n-prefs=USD; sp-cdn=&quot;L5Z9:IN&quot;; ubid-main=132-3672742-8898456; skin=noskin; session-id-time=2082787201l; JSESSIONID=025AD4E8A108CAAE570E06E3BB38A7B5; session-token=wRPXGCaZpvux3V1GvVXSA1N+UQ9sK18JcQc02jceQtetw+Q53oRCIAZ97XXgLUw2G8ZWawJNxCNxKueMe6Bzsrbjcb1ajDDRQvdoV+9LwMqWKwN9TL9PX8ttJekxQoX7V+yqmABPVY7RejeLaG6v0w0Tyyyufltz3DH+iy6xO0K1z0gdFu6CvSkLZLflmV8RLEBeEVds05fbVmLXrKNuYtcGDcMFbxtLm2J7C+g0sIcLw1Aq39ZqcA/2s6WKIJhahAKBr8f81ZqtMOL6J7nqC6rPdQALpAQPsDBWqc0Q2JJHMGTGHJb3gBxsFrfdqYXlzb7jSjZp5uaZAQR4YLr6aZ2IFWZOYzSY; csm-hit=tb:s-QEEWDTFHACP9RX96WCE3|1735821181469&amp;t:1735821184061&amp;adb:adblk_no"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="dpr" value="1"/>
+    <header name="x-amz-acp-params" value="tok=RgSzol3ddtwqjxA6WjFAqpf9nF1qmcGUafVarDLADWQ;ts=1735821182381;rid=QEEWDTFHACP9RX96WCE3;d1=569;d2=0"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="text/html, application/json"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="250"/>
+    <header name="sec-ch-dpr" value="1"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-requested-with" value="XMLHttpRequest"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-device-memory" value="8"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/html&#xd;
+server: Server&#xd;
+date: Thu, 02 Jan 2025 12:33:06 GMT&#xd;
+x-amz-rid: M7YZH2YG3J2XQMHVY3SP&#xd;
+x-content-type-options: nosniff&#xd;
+content-security-policy-report-only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/&#xd;
+accept-ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr,sec-ch-ua-platform-version&#xd;
+content-encoding: gzip&#xd;
+content-security-policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/&#xd;
+accept-ch-lifetime: 86400&#xd;
+x-xss-protection: 1;&#xd;
+strict-transport-security: max-age=47474747; includeSubDomains; preload&#xd;
+vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 fcc5d2d615e3904d2f9b279dd96de872.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: BLR50-P2&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: Dn2Lodfo9TXJDV09pzPFxlstqgLeinzNabu0FXz_6oXEKHiuhrMoJg==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"asin":"B0C2SWQBMB"}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/1/events/com.amazon.csm.nexusclient.prod"
+    path="/1/events/com.amazon.csm.nexusclient.prod" postType="4"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/2b1aa395-69ef-4865-a79c-bdcad1333c59.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="unagi-na.amazon.com" slaProfileEnabled="false"
+    uid="b3a53931-7d3c-4c5a-be0f-9e347c0b53e3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fd6abee8-0bfb-4ce0-9986-ec74fa2dbe8d</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fd6abee8-0bfb-4ce0-9986-ec74fa2dbe8d.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="text/plain;charset=UTF-8"/>
+    <header name="Cookie" value="session-id=140-2148316-2290569; i18n-prefs=USD; sp-cdn=&quot;L5Z9:IN&quot;; ubid-main=132-3672742-8898456; skin=noskin; session-id-time=2082787201l; session-token=wRPXGCaZpvux3V1GvVXSA1N+UQ9sK18JcQc02jceQtetw+Q53oRCIAZ97XXgLUw2G8ZWawJNxCNxKueMe6Bzsrbjcb1ajDDRQvdoV+9LwMqWKwN9TL9PX8ttJekxQoX7V+yqmABPVY7RejeLaG6v0w0Tyyyufltz3DH+iy6xO0K1z0gdFu6CvSkLZLflmV8RLEBeEVds05fbVmLXrKNuYtcGDcMFbxtLm2J7C+g0sIcLw1Aq39ZqcA/2s6WKIJhahAKBr8f81ZqtMOL6J7nqC6rPdQALpAQPsDBWqc0Q2JJHMGTGHJb3gBxsFrfdqYXlzb7jSjZp5uaZAQR4YLr6aZ2IFWZOYzSY"/>
+    <header name="Host" value="unagi-na.amazon.com"/>
+    <header name="Origin" value="https://www.amazon.com"/>
+    <header name="Referer" value="https://www.amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Server&#xd;
+Date: Thu, 02 Jan 2025 12:33:06 GMT&#xd;
+Content-Type: application/json&#xd;
+Content-Length: 22&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: FW89J4ASACBYBXCV4NA0&#xd;
+x-amzn-RequestId: 02c9ebe9-0b4e-4d08-b8e4-6ee8f664cac0&#xd;
+Access-Control-Allow-Origin: https://www.amazon.com&#xd;
+Content-Encoding: gzip&#xd;
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Vary: Origin,Content-Type,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"cs":{"dct":{"#0":"requestId","#1":"QEEWDTFHACP9RX96WCE3","#2":"server","#3":"www.amazon.com","#4":"obfuscatedMarketplaceId","#5":"ATVPDKIKX0DER","#6":"producerId","#7":"csm","#8":"schemaId","#9":"csm.CSMBaselineEvent.4","#10":"timestamp","#11":"messageId","#12":"sessionId","#13":"140-2148316-2290569","#14":"counterName","#15":"uss:mobile:compatibleBrowser","#16":"counterValue","#17":"uss.CounterData.3","#18":"eventSource","#19":"IBCarousel","#20":"placementContext","#21":"desktop_web.ImageBlock.vse_ib_iv","#22":"clientId","#23":"userAgentData","#24":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0","#25":"titleSessionId","#26":"eventName","#27":"ib.thumbnailRender","#28":"intPayload","#29":"videoAsin","#30":"08b1513e3f4e42c591ab74e6e32be7e9","#31":"videoAsinList","#32":"rankingStrategy","#33":"DEFAULT","#34":"groupType","#35":"IB_G1","#36":"pageUrl","#37":"pageAsin","#38":"weblabIds","#39":"VSEImageBlockEvents","#40":"vse.VSEImageBlockEvents.5","#41":"hasClose","#42":"triggerAttribution","#43":"[data-aui-build-date=3.24.10-2024-12-17] [id=a-page] [id=dp] [id=dp-container] [id=ppd] [id=rightCol] [id=desktop_buybox][data-feature-name=desktop_buybox] [id=buybox] [id=gsod_singleOfferDisplay_Desktop][data-feature-name=gsod_singleOfferDisplay_Desktop] [id=qualifiedBuybox][data-feature-name=qualifiedBuybox] [id=addToCart] [id=desktop_qualifiedBuyBox][data-feature-name=desktop_qualifiedBuyBox] [id=buyNow_feature_div][data-feature-name=buyNow] [id=buyNow] [id=turbo-checkout-modal][data-action=a-modal]","#44":"label","#45":"closeLabel","#46":"Close","#47":"aui-analytics","#48":"aui_analytics.PopoverCloseUsage.1","#49":"VSEWidgetCards","#50":"desktop_web.VWDPCard-Desktop.vse_cards","#51":"B0C2SWQBMB","#52":"0606e44ee6444ad987e3938db760be71,0751f0f5d4b34f3eaa24cd9b728c1ac9,05944ace7253422aa9baf95526130fbb,0b257d346b1b4f619bf030b3dc34ef14,0a4e74abf03e434bba1586e94beda026,0d2d3fbe69e548f1abaccbb3ffdcc466,0e1df2f2c70f4bb38089835768081eaa,0fe32b5c9b7c4699a0515486e4e0fad5,050c53397abb41d98a76a27b4cd79d4f,0c4a01a736f845e984feaf8d43ddfb6f","#53":"DEFAULT,DEFAULT,DEFAULT,DEFAULT,DEFAULT,DEFAULT,DEFAULT,DEFAULT,DEFAULT,DEFAULT","#54":"creativeId","#55":"stringPayload","#56":"detail:cardWidgetRendered","#57":"vsemetrics_widgetcards","#58":"vse.VSECardsEvents.8","#59":"ib.thumbnailImpression","#60":"https://www.amazon.com/Motorola-Unlocked-128GB-MPCamera-163-94x74-98x8-39/dp/B0C2SWQBMB/ref=sr_1_1_sspa?crid=O13V2LXMMM80&dib=eyJ2IjoiMSJ9.Vp-ma2M9nNeTqLdK9Pb13q6A8SJgyYCPcTJi8ttfJhBNKeCIkVtJO-i-jdvC1igUf1ZA13VIQiB6GwtBJfD2Rkq3DI9eqSUKdJb4uFsGi7Z83E-JYdYujPdKg09HEGh4S19pYRwg-8BLwuSGC84rZmSB7hbB-LVpBqEF2-0S0z7H4q-PysMVKrMoJIAtZ4Gru3su6HoSrCku4htP5YnPbC9TM2lcUnMso9tOLKKjc5U.BdSv2cKKSYL6a-LPC9qsW4S1fuNUKpx3LL1-cwQpqnI&dib_tag=se&keywords=mobile+phones&qid=1735821176&sprefix=%2Caps%2C293&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1","#61":"pagePath","#62":"customerLocalTime","#63":"2025-01-02 18:03:04","#64":"metricId","#65":"hbs_product_data","#66":"obfuscatedCustomerId","#67":"widgetName","#68":"productAsin","#69":"productPrice","#70":"selectedUpsellAsin","#71":"selectedUpsellPrice","#72":"upsellAsins","#73":"postalCode","#74":"56213","#75":"merchantId","#76":"pageType","#77":"LocalServicesWidget","#78":"subPageType","#79":"Impression","#80":"hitType","#81":"popUp","#82":"isCritical","#83":"deviceType","#84":"promo","#85":"isMbcClick","#86":"isBuyBoxAvailable","#87":"postPurchaseUID","#88":"experimentalData","#89":"vas-discovery","#90":"vas.instrumentation.metrics.VasInstrumentationMetrics.5","#91":"a2i-dpx","#92":"a2i.dpx.WidgetImpressions.3","#93":"DetailAW","#94":"INAffordability","#95":"remoteAddress","#96":"isInternal","#97":"isRobot","#98":"refMarker","#99":"social_proofing_faceout_present","#100":"additionalRequestData","#101":"TK_BOUGHT","#102":"anonymizedRequestId","#103":"01015610b3ea7d8ad2c2e82596ab8655920a91abb38e19d84931332e0fa63896cffb","#104":"campaignId","#105":"300019039028106","#106":"slotName","#107":"desktop-arbies","#108":"idType","#109":"AXIOM","#110":"market","#111":"customerId","#112":"lob","#113":"UNKNOWN","#114":"asins","#115":"id","#116":"B0CMDPRN7M","#117":"prime","#118":"price","#119":"savings","#120":"rating","#121":"badge","#122":"creativeType","#123":"lifestyle-image-v4-creative-desktop-dp","#124":"creativeVariation","#125":"version","#126":"1734528136996","#127":"viewport","#128":"1912x962","#129":"weblabs","#130":"SB_AD_FEEDBACK_379852:T1","#131":"ADPT_SB_DMA_MARIO_DISCOUNT_ELIGIBILITY_904466:T1","#132":"SB_CREATIVE_CARDS_EXPOSURE_CONTROL_456157:C","#133":"adWidth","#134":"adHeight","#135":"viewportWidth","#136":"viewportHeight","#137":"storeBannerUrl","#138":"customImageUrl","#139":"https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4234f427-cc5e-4e0d-bb34-fea20f9c9d3a._CR0,0,2199,1151_SX507_QL70_.png","#140":"isAiGen","#141":"base-be","#142":"basebe.Impressions.8","#143":"delay","#144":"basebe.VisualCompleteness.7","#145":"adIndex","#146":"adId","#147":"300284601371002","#148":"basebe.ImpressionsV2.4","#149":"joinId","#150":"basebe.ImpressionsV3.2"}},"events":[{"data":{"#0":"#1","#2":"#3","#4":"#5","#6":"#7","#8":"#9","#10":"2025-01-02T12:33:04.082Z","#11":"QEEWDTFHACP9RX96WCE3-1735821184082-1765043079","#12":"#13"}},{"data":{"#14":"#15","#16":1,"#6":"uss","#8":"#17","#10":"2025-01-02T12:33:04.082Z","#11":"QEEWDTFHACP9RX96WCE3-1735821184082-6854599373","#12":"#13","#0":"#1","#4":"#5"}},{"data":{"#18":"#19","#20":"#21","#22":"VSE","#23":"#24","#25":"0","#26":"#27","#28":7,"#29":"#30","#31":"","#32":"#33","#34":"#35","#38":"","#6":"#39","#8":"#40","#10":"2025-01-02T12:33:04.082Z","#11":"QEEWDTFHACP9RX96WCE3-1735821184082-2137667783","#12":"#13","#0":"#1","#4":"#5"}},{"data":{"#41":true,"#42":"#43","#44":null,"#45":"#46","#6":"#47","#8":"#48","#10":"2025-01-02T12:33:04.082Z","#11":"QEEWDTFHACP9RX96WCE3-1735821184082-0088412293","#12":"#13","#0":"#1","#4":"#5"}},{"data":{"#18":"#49","#20":"#50","#22":"VSE","#10":"2025-01-02T12:33:04.082Z","#23":"#24","#25":"0","#29":"","#37":"#51","#31":"#52","#32":"#53","#54":"","#55":"#51","#26":"#56","#28":1,"#6":"#57","#8":"#58","#11":"QEEWDTFHACP9RX96WCE3-1735821184082-8775403296","#12":"#13","#0":"#1","#4":"#5"}},{"data":{"#18":"#19","#20":"#21","#22":"VSE","#23":"#24","#25":"0","#26":"#59","#28":1,"#29":"#30","#31":"","#32":"#33","#34":"#35","#36":"#60","#37":"#51","#38":"","#6":"#39","#8":"#40","#10":"2025-01-02T12:33:04.082Z","#11":"QEEWDTFHACP9RX96WCE3-1735821184082-2373044334","#12":"#13","#0":"#1","#4":"#5"}},{"data":{"#61":"#60","#62":"#63","#64":"#65","#66":"","#67":"","#68":"#51","#73":"#74","#76":"#77","#78":"#79","#80":"#81","#83":"d","#86":true,"#6":"#89","#8":"#90","#10":"2025-01-02T12:33:04.289Z","#11":"QEEWDTFHACP9RX96WCE3-1735821184289-9775228669","#12":"#13","#0":"#1","#4":"#5"}},{"data":{"#6":"#91","#8":"#92","#37":"#51","#76":"#93","#78":"#94","#75":"#5","#95":null,"#96":0,"#97":0,"#2":"#3","#98":"#99","#100":"#101","#10":"2025-01-02T12:33:04.442Z","#11":"QEEWDTFHACP9RX96WCE3-1735821184442-2871642946","#12":"#13","#0":"#1","#4":"#5"}},{"data":{"#102":"#103","#104":"#105","#106":"#107","#108":"#109","#110":"#5","#111":null,"#12":null,"#112":"#113","#114":[{"#115":"#116","#117":true,"#118":false,"#119":false,"#120":"4.5","#121":null}],"#122":"#123","#124":null,"#125":"#126","#127":"#128","#129":["#130","#131","#132"],"#133":1464,"#134":434.328125,"#135":1912,"#136":962,"#137":null,"#138":"#139","#140":false,"#6":"#141","#8":"#142","#10":"2025-01-02T12:33:04.792Z","#11":"QEEWDTFHACP9RX96WCE3-1735821184792-1199406352"}},{"data":{"#102":"#103","#104":"#105","#106":"#107","#108":"#109","#110":"#5","#111":null,"#12":null,"#112":"#113","#143":0,"#6":"#141","#8":"#144","#10":"2025-01-02T12:33:04.793Z","#11":"QEEWDTFHACP9RX96WCE3-1735821184793-6043691834"}},{"data":{"#102":"#103","#104":"#105","#106":"#107","#108":"#109","#110":"#5","#111":null,"#12":null,"#112":"#113","#114":[{"#115":"#116","#117":true,"#118":false,"#119":false,"#120":"4.5","#121":null}],"#122":"#123","#124":null,"#125":"#126","#127":"#128","#129":["#130","#131","#132"],"#145":"0","#146":"#147","#133":1464,"#134":434.328125,"#135":1912,"#136":962,"#137":null,"#138":"#139","#140":false,"#6":"#141","#8":"#148","#10":"2025-01-02T12:33:04.793Z","#11":"QEEWDTFHACP9RX96WCE3-1735821184793-7415427238"}},{"data":{"#104":"#105","#106":"#107","#108":"#109","#110":"#5","#149":null,"#114":[{"#115":"#116","#117":true,"#118":false,"#119":false,"#120":"4.5","#121":null}],"#122":"#123","#124":null,"#125":"#126","#127":"#128","#129":["#130","#131","#132"],"#145":"0","#146":"#147","#133":1464,"#134":434.328125,"#135":1912,"#136":962,"#137":null,"#138":"#139","#140":false,"#6":"#141","#8":"#150","#10":"2025-01-02T12:33:04.793Z","#11":"QEEWDTFHACP9RX96WCE3-1735821184793-9620514890"}}]}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/x/px/RH9VKwKksuIos7zsHSJX7y0AAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICDc8h5p/v/%7B%22wh%22:962,%22ww%22:1912,%22sx%22:0,%22sy%22:0,%22ah%22:250,%22aw%22:244,%22top%22:920,%22left%22:1371.5,%22v%22:%7B%22p%22:0,%22t%22:0,%22def%22:%22amzn%22%7D,%22ptv%22:3.409,%22ttv%22:1.929%7D"
+    path="/x/px/RH9VKwKksuIos7zsHSJX7y0AAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICDc8h5p/v/%7B%22wh%22:962,%22ww%22:1912,%22sx%22:0,%22sy%22:0,%22ah%22:250,%22aw%22:244,%22top%22:920,%22left%22:1371.5,%22v%22:%7B%22p%22:0,%22t%22:0,%22def%22:%22amzn%22%7D,%22ptv%22:3.409,%22ttv%22:1.929%7D"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/2b1aa395-69ef-4865-a79c-bdcad1333c59.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="aax-us-iad.amazon.com" slaProfileEnabled="false"
+    uid="c337da86-3b52-4de9-9914-ae2aa46869e2" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_d4b8f2a5-f8f6-4abe-85f6-44e98fd26f70.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="aax-us-iad.amazon.com"/>
+    <header name="Referer" value="https://images-na.ssl-images-amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Server: Server&#xd;
+Date: Thu, 02 Jan 2025 12:33:06 GMT&#xd;
+Content-Type: image/gif&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: NA5KA1WWXHMC1660F2F2&#xd;
+Content-Encoding: gzip&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+Vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/x/px/RH9VKwKksuIos7zsHSJX7y0AAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICDc8h5p/atf/%7B%22atf%22:false%7D"
+    path="/x/px/RH9VKwKksuIos7zsHSJX7y0AAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICDc8h5p/atf/%7B%22atf%22:false%7D"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/2b1aa395-69ef-4865-a79c-bdcad1333c59.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="aax-us-iad.amazon.com" slaProfileEnabled="false"
+    uid="0871a1dc-c7b4-4686-877d-8556a0bfa0cb" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_4a1f4969-e444-429c-8a81-cdc24a7884e1.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="aax-us-iad.amazon.com"/>
+    <header name="Referer" value="https://images-na.ssl-images-amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Server: Server&#xd;
+Date: Thu, 02 Jan 2025 12:33:06 GMT&#xd;
+Content-Type: image/gif&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: 8R4S0M0NCAWT8Q6YM9WV&#xd;
+Content-Encoding: gzip&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+Vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/x/px/RN9tsK3c8CaTEN4xGU1GHzsAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBLDKjk/atf/%7B%22atf%22:false%7D"
+    path="/x/px/RN9tsK3c8CaTEN4xGU1GHzsAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBLDKjk/atf/%7B%22atf%22:false%7D"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/2b1aa395-69ef-4865-a79c-bdcad1333c59.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="aax-us-iad.amazon.com" slaProfileEnabled="false"
+    uid="fd5ef7ba-540e-4c9f-a450-03c7654616fe" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_cce77efa-feeb-4b9b-83fe-89be55a2c029.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="aax-us-iad.amazon.com"/>
+    <header name="Referer" value="https://images-na.ssl-images-amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Server: Server&#xd;
+Date: Thu, 02 Jan 2025 12:33:06 GMT&#xd;
+Content-Type: image/gif&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: ANGGS4QZG6J0DD8QJBWD&#xd;
+Content-Encoding: gzip&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+Vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/x/px/RPBwvUC7nJ8EuRca4ZBk69QAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICA2IG12/atf/%7B%22atf%22:false%7D"
+    path="/x/px/RPBwvUC7nJ8EuRca4ZBk69QAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICA2IG12/atf/%7B%22atf%22:false%7D"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/2b1aa395-69ef-4865-a79c-bdcad1333c59.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="aax-us-iad.amazon.com" slaProfileEnabled="false"
+    uid="024fdf6d-ddc9-4508-af8f-2f225dcc41a4" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_05f57b79-49f6-48ca-bf49-90b09ab759ae.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="aax-us-iad.amazon.com"/>
+    <header name="Referer" value="https://images-na.ssl-images-amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Server: Server&#xd;
+Date: Thu, 02 Jan 2025 12:33:06 GMT&#xd;
+Content-Type: image/gif&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: RYFJCF2S0T4DAY01NFRA&#xd;
+Content-Encoding: gzip&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+Vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

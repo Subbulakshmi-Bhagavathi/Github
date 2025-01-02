@@ -1,0 +1,118 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/dram/renderLazyLoaded" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/66c08545-f615-4f1d-9127-7f3b63973056.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="66c08545-f615-4f1d-9127-7f3b63973056">
+    <embedded-action>8f32ebe6-c9b3-4ad3-a2eb-08c9d8741472</embedded-action>
+    <embedded-action>b81145ff-e92b-4e9a-b226-167e04939194</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_d7648861-52c9-40a8-b94d-4f070e0892b8.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/dram/renderLazyLoaded"
+    path="/dram/renderLazyLoaded" postType="4"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/66c08545-f615-4f1d-9127-7f3b63973056.zip"
+    recordedResponseCode="200" responseSize="74112"
+    serverUid="www.amazon.com" slaProfileEnabled="false"
+    uid="8f32ebe6-c9b3-4ad3-a2eb-08c9d8741472" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a53466ff-04f1-4469-a86a-ab5fb04ba65b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a53466ff-04f1-4469-a86a-ab5fb04ba65b.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.amazon.com/Motorola-Unlocked-128GB-MPCamera-163-94x74-98x8-39/dp/B0C2SWQBMB/ref=sr_1_1_sspa?crid=O13V2LXMMM80&amp;dib=eyJ2IjoiMSJ9.Vp-ma2M9nNeTqLdK9Pb13q6A8SJgyYCPcTJi8ttfJhBNKeCIkVtJO-i-jdvC1igUf1ZA13VIQiB6GwtBJfD2Rkq3DI9eqSUKdJb4uFsGi7Z83E-JYdYujPdKg09HEGh4S19pYRwg-8BLwuSGC84rZmSB7hbB-LVpBqEF2-0S0z7H4q-PysMVKrMoJIAtZ4Gru3su6HoSrCku4htP5YnPbC9TM2lcUnMso9tOLKKjc5U.BdSv2cKKSYL6a-LPC9qsW4S1fuNUKpx3LL1-cwQpqnI&amp;dib_tag=se&amp;keywords=mobile+phones&amp;qid=1735821176&amp;sprefix=%2Caps%2C293&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="downlink" value="10"/>
+    <header name="origin" value="https://www.amazon.com"/>
+    <header name="device-memory" value="8"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="viewport-width" value="1912"/>
+    <header name="ect" value="4g"/>
+    <header name="content-type" value="application/json"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-ch-viewport-width" value="1912"/>
+    <header name="cookie" value="session-id=140-2148316-2290569; i18n-prefs=USD; sp-cdn=&quot;L5Z9:IN&quot;; ubid-main=132-3672742-8898456; skin=noskin; session-id-time=2082787201l; JSESSIONID=025AD4E8A108CAAE570E06E3BB38A7B5; session-token=wRPXGCaZpvux3V1GvVXSA1N+UQ9sK18JcQc02jceQtetw+Q53oRCIAZ97XXgLUw2G8ZWawJNxCNxKueMe6Bzsrbjcb1ajDDRQvdoV+9LwMqWKwN9TL9PX8ttJekxQoX7V+yqmABPVY7RejeLaG6v0w0Tyyyufltz3DH+iy6xO0K1z0gdFu6CvSkLZLflmV8RLEBeEVds05fbVmLXrKNuYtcGDcMFbxtLm2J7C+g0sIcLw1Aq39ZqcA/2s6WKIJhahAKBr8f81ZqtMOL6J7nqC6rPdQALpAQPsDBWqc0Q2JJHMGTGHJb3gBxsFrfdqYXlzb7jSjZp5uaZAQR4YLr6aZ2IFWZOYzSY; csm-hit=tb:s-QEEWDTFHACP9RX96WCE3|1735821181469&amp;t:1735821184061&amp;adb:adblk_no"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="dpr" value="1"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="250"/>
+    <header name="sec-ch-dpr" value="1"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-requested-with" value="XMLHttpRequest"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-device-memory" value="8"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json&#xd;
+server: Server&#xd;
+date: Thu, 02 Jan 2025 12:33:05 GMT&#xd;
+x-amz-rid: CEMYF19E1REC485H7BRN&#xd;
+x-content-type-options: nosniff&#xd;
+content-security-policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/&#xd;
+x-xss-protection: 1;&#xd;
+content-encoding: gzip&#xd;
+accept-ch-lifetime: 86400&#xd;
+accept-ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr,sec-ch-ua-platform-version&#xd;
+content-security-policy-report-only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/&#xd;
+strict-transport-security: max-age=47474747; includeSubDomains; preload&#xd;
+vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 fcc5d2d615e3904d2f9b279dd96de872.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: BLR50-P2&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: qb0KH5QLJc3z414L2wezPlynLf3cEs8F4X8VJnmoNvSrwllTsOEh7w==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"encryptedLazyLoadRenderRequest":"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"}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/e/xsp/imp" path="/e/xsp/imp" postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/66c08545-f615-4f1d-9127-7f3b63973056.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="aax-us-iad.amazon.com" slaProfileEnabled="false"
+    uid="b81145ff-e92b-4e9a-b226-167e04939194" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_8f8ea098-a0c5-43f9-88ae-094e67558b74.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="b"
+        recordRawValue="RH9VKwKksuIos7zsHSJX7y0AAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICDc8h5p"
+        separator="="
+        value="RH9VKwKksuIos7zsHSJX7y0AAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICDc8h5p" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pj"
+        recordRawValue="%7B%22measurementMethod%22%3A%22cod_client%22%7D"
+        separator="="
+        value="{&quot;measurementMethod&quot;:&quot;cod_client&quot;}" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="aax-us-iad.amazon.com"/>
+    <header name="Referer" value="https://images-na.ssl-images-amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Server: Server&#xd;
+Date: Thu, 02 Jan 2025 12:33:05 GMT&#xd;
+Content-Type: image/gif&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: 0A47D4KF9C8GFVJ18C3P&#xd;
+Content-Encoding: gzip&#xd;
+Cache-Control: no-store, max-age=0&#xd;
+Vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

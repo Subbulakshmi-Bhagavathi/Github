@@ -1,0 +1,19 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="2" pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="a9c08f89-3320-48ee-a21b-276b7150b519" weightsEnabled="false">
+    <weighted-embedded-action uid="8ec91cd3-5f00-47c6-8c37-1119c63bf576"/>
+    <weighted-embedded-action uid="b04f1548-c310-42d7-bd68-3db116a567da"/>
+    <weighted-embedded-action uid="92100459-80a2-4abb-9818-80ff63c60beb"/>
+    <weighted-embedded-action uid="9a9caea5-f8be-48f7-bd7a-afe77bc6bc32"/>
+    <weighted-embedded-action uid="6688f15b-00d6-4708-8a2f-86038fb48bb7"/>
+    <weighted-embedded-action uid="e1f2cb7c-d361-479a-b243-4c7791d71822"/>
+    <weighted-embedded-action uid="2e14ad70-92ad-4347-92fc-68ab1d3c3d5e"/>
+    <weighted-embedded-action uid="31e6ed6d-f39a-49ac-8e17-bf5b4815a22c"/>
+    <weighted-embedded-action uid="d0108901-3506-4721-8f63-3a904458a574"/>
+    <weighted-embedded-action uid="7c0e4358-1ab3-4fa9-800d-0fc82d3933c0"/>
+    <weighted-embedded-action uid="dfcf4b07-0644-43c5-936f-0b3acc11aab3"/>
+    <weighted-embedded-action uid="4794bff1-ef42-40bc-bf15-346c5cd07125"/>
+    <weighted-embedded-action uid="e660ea95-cbca-47e5-90ae-0862668223e4"/>
+    <weighted-embedded-action uid="533db68a-e982-4ae8-899d-1f05a7c6bca8"/>
+</basic-logical-action-container>

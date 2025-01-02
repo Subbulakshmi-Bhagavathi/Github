@@ -1,0 +1,4 @@
+<http-server hostname="aax-us-iad.amazon.com" port="443" ssl="true"
+    uid="aax-us-iad.amazon.com" urlrewriting-argument-name=""
+    urlrewriting-enabled="false" urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

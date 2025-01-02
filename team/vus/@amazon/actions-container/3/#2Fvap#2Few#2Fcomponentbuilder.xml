@@ -1,0 +1,249 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/vap/ew/componentbuilder" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/fdde1f0b-6586-406f-a862-96b1885efdf2.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="fdde1f0b-6586-406f-a862-96b1885efdf2">
+    <embedded-action>72206fe7-1235-46a7-8c74-badbc28895ea</embedded-action>
+    <embedded-action>67b4a591-2ae8-4f20-8e5b-9ceb6d282ffd</embedded-action>
+    <embedded-action>4f49263a-1933-4d07-8c59-ee8b8da1464e</embedded-action>
+    <embedded-action>b44216ec-dc2a-42cb-8312-661409a037be</embedded-action>
+    <embedded-action>0798f430-7ce6-430c-b322-8db5be414bdb</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_db49a59a-551e-4508-9301-e28fd043d2b0.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/vap/ew/componentbuilder"
+    path="/vap/ew/componentbuilder" postType="4"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/fdde1f0b-6586-406f-a862-96b1885efdf2.zip"
+    recordedResponseCode="200" responseSize="58164"
+    serverUid="www.amazon.com" slaProfileEnabled="false"
+    uid="72206fe7-1235-46a7-8c74-badbc28895ea" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_66809c50-a703-498a-84b4-17cf47abe5aa.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_66809c50-a703-498a-84b4-17cf47abe5aa.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.amazon.com/Motorola-Unlocked-128GB-MPCamera-163-94x74-98x8-39/dp/B0C2SWQBMB/ref=sr_1_1_sspa?crid=O13V2LXMMM80&amp;dib=eyJ2IjoiMSJ9.Vp-ma2M9nNeTqLdK9Pb13q6A8SJgyYCPcTJi8ttfJhBNKeCIkVtJO-i-jdvC1igUf1ZA13VIQiB6GwtBJfD2Rkq3DI9eqSUKdJb4uFsGi7Z83E-JYdYujPdKg09HEGh4S19pYRwg-8BLwuSGC84rZmSB7hbB-LVpBqEF2-0S0z7H4q-PysMVKrMoJIAtZ4Gru3su6HoSrCku4htP5YnPbC9TM2lcUnMso9tOLKKjc5U.BdSv2cKKSYL6a-LPC9qsW4S1fuNUKpx3LL1-cwQpqnI&amp;dib_tag=se&amp;keywords=mobile+phones&amp;qid=1735821176&amp;sprefix=%2Caps%2C293&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="downlink" value="10"/>
+    <header name="origin" value="https://www.amazon.com"/>
+    <header name="device-memory" value="8"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="viewport-width" value="1912"/>
+    <header name="ect" value="4g"/>
+    <header name="content-type" value="application/json;charset=UTF-8"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-ch-viewport-width" value="1912"/>
+    <header name="cookie" value="session-id=140-2148316-2290569; i18n-prefs=USD; sp-cdn=&quot;L5Z9:IN&quot;; ubid-main=132-3672742-8898456; skin=noskin; session-id-time=2082787201l; JSESSIONID=025AD4E8A108CAAE570E06E3BB38A7B5; session-token=wRPXGCaZpvux3V1GvVXSA1N+UQ9sK18JcQc02jceQtetw+Q53oRCIAZ97XXgLUw2G8ZWawJNxCNxKueMe6Bzsrbjcb1ajDDRQvdoV+9LwMqWKwN9TL9PX8ttJekxQoX7V+yqmABPVY7RejeLaG6v0w0Tyyyufltz3DH+iy6xO0K1z0gdFu6CvSkLZLflmV8RLEBeEVds05fbVmLXrKNuYtcGDcMFbxtLm2J7C+g0sIcLw1Aq39ZqcA/2s6WKIJhahAKBr8f81ZqtMOL6J7nqC6rPdQALpAQPsDBWqc0Q2JJHMGTGHJb3gBxsFrfdqYXlzb7jSjZp5uaZAQR4YLr6aZ2IFWZOYzSY; csm-hit=tb:s-QEEWDTFHACP9RX96WCE3|1735821181469&amp;t:1735821181469&amp;adb:adblk_no"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="dpr" value="1"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="250"/>
+    <header name="sec-ch-dpr" value="1"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-requested-with" value="XMLHttpRequest"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-device-memory" value="8"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/html;charset=UTF-8&#xd;
+server: Server&#xd;
+date: Thu, 02 Jan 2025 12:33:05 GMT&#xd;
+x-amz-rid: QMJBWXBK1X1VBKAG2A2T&#xd;
+content-language: en-US&#xd;
+content-security-policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/&#xd;
+content-encoding: gzip&#xd;
+content-security-policy-report-only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/&#xd;
+accept-ch-lifetime: 86400&#xd;
+accept-ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr,sec-ch-ua-platform-version&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1;&#xd;
+strict-transport-security: max-age=47474747; includeSubDomains; preload&#xd;
+vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 fcc5d2d615e3904d2f9b279dd96de872.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: BLR50-P2&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: 8400lD3WNAmh6ArwOtcZQJPCSqEJhNpzR-24e-atC0G6dCol9fo4HA==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"requester":"VSEWidgetCards","clientPrefix":"detail","page":"Detail","placement":"VWDPCard-Desktop","device":"Desktop","metadata":{"id":"vse-video-widget-card-detail","celQueryStringParam":"/","requestHasVideoData":"true"},"videoDataList":[{"contentId":"0606e44ee6444ad987e3938db760be71","productAsin":"B0C2SWQBMB","parentAsin":"B0DHJBQNZJ","metadata":{"videoImageUrl":"https://m.media-amazon.com/images/I/B1Hg9vwzHwL.png","videoURL":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5b060b5b-5618-4998-b03e-8df00ff1c65b/default.jobtemplate.hls.m3u8","title":"Great Everyday Phone & Camera - Daily User of Moto G 2024","formattedDuration":"1:07","vendorName":"Jeff & Kristine","vendorCode":"just_another_jeff:shop","referenceId":"VideoCreatorPortal:08378afb098d4661a2f1b826d491229f","fullReviewLink":"","videoDetailPageLink":"vdp/0606e44ee6444ad987e3938db760be71/","asin":"0606e44ee6444ad987e3938db760be71","vendorTrackingId":"onamzkri08120-20","relatedProductsAsins":"B0CWHXVLXG","videoAge":"Nov 10, 2024","closedCaptions":"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/7a8bf9bb-c489-4004-a6d8-6e5efcdd5a48.vtt","creatorType":"Influencer","publicName":"Jeff & Kristine","profileLink":"/shop/just_another_jeff","profileImageUrl":"https://m.media-amazon.com/images/I/C1xXdRh0qyL._CR618,0,2316,2316_._FMjpg_._SL34_.jpg","rankingStrategy":"DEFAULT","aciContentId":"amzn1.vse.video.0606e44ee6444ad987e3938db760be71","disclosureText":"","disclosureLabel":"","disclosureLink":"","videoMimeType":"application/x-mpegURL","entityId":"amzn1.account.AFSPZRHEETDE2ORBJMBNFTDMYXOA","entityType":"customer","videoImageHeight":"2160","videoImageWidth":"3840","videoImagePhysicalId":"B1Hg9vwzHwL","videoImageExtension":"png","groupType":"G1","source":"VSE","highlightedAsin":"","status":"","orientation":"","channelId":"","carouselItems":"","isHotspotsEligible":"false"},"impressionRecorded":false,"lastPlayingTimestamp":0,"index":0},{"contentId":"0751f0f5d4b34f3eaa24cd9b728c1ac9","productAsin":"B0C2SWQBMB","parentAsin":"B0DHJBQNZJ","metadata":{"videoImageUrl":"https://m.media-amazon.com/images/I/91HjEECeOWL.jpg","videoURL":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/43df33f0-528f-4df7-91ca-78da184c9e7e/default.jobtemplate.hls.m3u8","title":"Moto G Power 5G 2024 VS Moto G Play 2024 Specs Comparison","formattedDuration":"5:54","vendorName":"Milo B.","vendorCode":"milob.:shop","referenceId":"VideoCreatorPortal:8999953887cb43a49a98a0ea415464a4","fullReviewLink":"","videoDetailPageLink":"vdp/0751f0f5d4b34f3eaa24cd9b728c1ac9/","asin":"0751f0f5d4b34f3eaa24cd9b728c1ac9","vendorTrackingId":"onamzmilob08-20","relatedProductsAsins":"B0CVR23QCR,B0D323V72S,B0CP6DDN1H,B0DD85TMRT","videoAge":"Oct 16, 2024","closedCaptions":"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5ac091d5-d3c1-4cf0-8fc1-2d057a76cd6b.vtt","creatorType":"Influencer","publicName":"Milo B.","profileLink":"/shop/milob.","profileImageUrl":"https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/milob_1657646839908_original._CR418,0,533,533_._FMjpg_._SL34_.jpeg","rankingStrategy":"DEFAULT","aciContentId":"amzn1.vse.video.0751f0f5d4b34f3eaa24cd9b728c1ac9","disclosureText":"","disclosureLabel":"","disclosureLink":"","videoMimeType":"application/x-mpegURL","entityId":"amzn1.account.AH53JKQ7WV3WZQLHH2U3TRZMBZ2Q","entityType":"customer","videoImageHeight":"2130","videoImageWidth":"3798","videoImagePhysicalId":"91HjEECeOWL","videoImageExtension":"jpg","groupType":"G1","source":"VSE","highlightedAsin":"","status":"","orientation":"","channelId":"","carouselItems":"","isHotspotsEligible":"false"},"impressionRecorded":false,"lastPlayingTimestamp":0,"index":1},{"contentId":"05944ace7253422aa9baf95526130fbb","productAsin":"B0C2SWQBMB","parentAsin":"B0DHJBQNZJ","metadata":{"videoImageUrl":"https://m.media-amazon.com/images/I/61LklS7-IqL.jpg","videoURL":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a4b6f093-8f56-4369-98dc-f13b47cc04cf/default.jobtemplate.hls.m3u8","title":"Moto G Play: 50MP Camera FAIL or STEAL?","formattedDuration":"2:17","vendorName":"Family Pop TV","vendorCode":"familypoptv:shop","referenceId":"VideoCreatorPortal:81e4ad67a5c54cb3b2ac3cc120b3f329","fullReviewLink":"","videoDetailPageLink":"vdp/05944ace7253422aa9baf95526130fbb/","asin":"05944ace7253422aa9baf95526130fbb","vendorTrackingId":"onamzfamipopt-20","relatedProductsAsins":"B0C2SWQBMB,B0CZXVTN8K","videoAge":"May 8, 2024","closedCaptions":"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4b884261-8d72-4ec2-ac37-ec5214d169e4.vtt","creatorType":"Influencer","publicName":"Family Pop TV","profileLink":"/shop/familypoptv","profileImageUrl":"https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/familypoptv_1680016109300_original._FMjpg_._SL34_.jpeg","rankingStrategy":"DEFAULT","aciContentId":"amzn1.vse.video.05944ace7253422aa9baf95526130fbb","disclosureText":"","disclosureLabel":"","disclosureLink":"","videoMimeType":"application/x-mpegURL","entityId":"amzn1.account.AHH6TCFQZBCMEFIG7ELZSZASHXLA","entityType":"customer","videoImageHeight":"1080","videoImageWidth":"1920","videoImagePhysicalId":"61LklS7-IqL","videoImageExtension":"jpg","groupType":"G1","source":"VSE","highlightedAsin":"","status":"","orientation":"","channelId":"","carouselItems":"","isHotspotsEligible":"false"},"impressionRecorded":false,"lastPlayingTimestamp":0,"index":2},{"contentId":"0b257d346b1b4f619bf030b3dc34ef14","productAsin":"B0C2SWQBMB","parentAsin":"B0DHJBQNZJ","metadata":{"videoImageUrl":"https://m.media-amazon.com/images/I/41A5D3knCAL.jpg","videoURL":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/36c948d7-fe04-4fd0-98f3-38ea1f35da74/embedded.cc.default.vertical.jobtemplate.hls.m3u8","title":"No charging block and does not support esim","formattedDuration":"0:06","vendorName":"Justin Strife","vendorCode":"AOD60","referenceId":"medusa:323a6926-30bf-43b9-b:5ac13ff154470547f2c72b9a23ca131c","fullReviewLink":"/gp/customer-reviews/RHUX9XUIXC7JK?ref=va_cr_lb","videoDetailPageLink":"vdp/0b257d346b1b4f619bf030b3dc34ef14/","asin":"0b257d346b1b4f619bf030b3dc34ef14","vendorTrackingId":"","relatedProductsAsins":"B0C2SWQBMB","videoAge":"Nov 14, 2023","closedCaptions":"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/dbc93f85-11ad-4980-8a55-5007dd99fca7.vtt","creatorType":"Customer","publicName":"Justin Strife","profileLink":"/gp/profile/amzn1.account.AHBSJ6NMPXVFBEUVJHVICW5VBMCA","profileImageUrl":"https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png","rankingStrategy":"DEFAULT","aciContentId":"amzn1.vse.video.0b257d346b1b4f619bf030b3dc34ef14","disclosureText":"","disclosureLabel":"","disclosureLink":"","videoMimeType":"application/x-mpegURL","entityId":"","entityType":"","videoImageHeight":"1280","videoImageWidth":"720","videoImagePhysicalId":"41A5D3knCAL","videoImageExtension":"jpg","groupType":"G1","source":"VSE","highlightedAsin":"","status":"","orientation":"","channelId":"","carouselItems":"","isHotspotsEligible":"false"},"impressionRecorded":false,"lastPlayingTimestamp":0,"index":3},{"contentId":"0a4e74abf03e434bba1586e94beda026","productAsin":"B0C2SWQBMB","parentAsin":"B0DHJBQNZJ","metadata":{"videoImageUrl":"https://m.media-amazon.com/images/I/81fWI2RU3nL.png","videoURL":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2406f764-7e9f-46ee-9731-c911500f47f7/default.vertical.jobtemplate.hls.m3u8","title":"Motorola Moto G 5G 2023 | Unboxing Video |","formattedDuration":"0:25","vendorName":"Abu Sufian Sarkar","vendorCode":"abu.sufian.sarkar:shop","referenceId":"VideoCreatorPortal:b7aa20ceb39940f6b0376cb5e4bafcce","fullReviewLink":"","videoDetailPageLink":"vdp/0a4e74abf03e434bba1586e94beda026/","asin":"0a4e74abf03e434bba1586e94beda026","vendorTrackingId":"onamzabusufia-20","relatedProductsAsins":"B0C2SWQBMB,B0CCGPH1CC,B0CZXVTN8K,B0C7DVVR9B","videoAge":"May 23, 2024","closedCaptions":"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/107d463d-7e95-43b7-a997-1120d650f0a8.vtt","creatorType":"Influencer","publicName":"Abu Sufian Sarkar","profileLink":"/shop/abu.sufian.sarkar","profileImageUrl":"https://m.media-amazon.com/images/I/D13YZMsf2pL._CR0,1114,3340,3340_._FMjpg_._SL34_.jpg","rankingStrategy":"DEFAULT","aciContentId":"amzn1.vse.video.0a4e74abf03e434bba1586e94beda026","disclosureText":"","disclosureLabel":"","disclosureLink":"","videoMimeType":"application/x-mpegURL","entityId":"amzn1.account.AFF2FXLXWP7ZHUEHFNC4DERJWIMA","entityType":"customer","videoImageHeight":"1280","videoImageWidth":"720","videoImagePhysicalId":"81fWI2RU3nL","videoImageExtension":"png","groupType":"G1","source":"VSE","highlightedAsin":"","status":"","orientation":"","channelId":"","carouselItems":"","isHotspotsEligible":"false"},"impressionRecorded":false,"lastPlayingTimestamp":0,"index":4},{"contentId":"0d2d3fbe69e548f1abaccbb3ffdcc466","productAsin":"B0C2SWQBMB","parentAsin":"B0DHJBQNZJ","metadata":{"videoImageUrl":"https://m.media-amazon.com/images/I/9166CgsufPL.jpg","videoURL":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c87cfb5b-fda8-46e9-ae16-9a9691a1fc50/default.jobtemplate.hls.m3u8","title":"My Top Reasons To Get Moto G 5G 2024 ","formattedDuration":"2:51","vendorName":"Milo B.","vendorCode":"milob.:shop","referenceId":"VideoCreatorPortal:5130621af35742bdbadcadc089c016ac","fullReviewLink":"","videoDetailPageLink":"vdp/0d2d3fbe69e548f1abaccbb3ffdcc466/","asin":"0d2d3fbe69e548f1abaccbb3ffdcc466","vendorTrackingId":"onamzmilob08-20","relatedProductsAsins":"B0CWHXVLXG,B0DCGQJ6ZC,B0D7D4W6BP","videoAge":"Dec 1, 2024","closedCaptions":"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d60de0d1-dde9-4d37-9934-26230ae25725.vtt","creatorType":"Influencer","publicName":"Milo B.","profileLink":"/shop/milob.","profileImageUrl":"https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/milob_1657646839908_original._CR418,0,533,533_._FMjpg_._SL34_.jpeg","rankingStrategy":"DEFAULT","aciContentId":"amzn1.vse.video.0d2d3fbe69e548f1abaccbb3ffdcc466","disclosureText":"","disclosureLabel":"","disclosureLink":"","videoMimeType":"application/x-mpegURL","entityId":"amzn1.account.AH53JKQ7WV3WZQLHH2U3TRZMBZ2Q","entityType":"customer","videoImageHeight":"2114","videoImageWidth":"3794","videoImagePhysicalId":"9166CgsufPL","videoImageExtension":"jpg","groupType":"G1","source":"VSE","highlightedAsin":"","status":"","orientation":"","channelId":"","carouselItems":"","isHotspotsEligible":"false"},"impressionRecorded":false,"lastPlayingTimestamp":0,"index":5},{"contentId":"0e1df2f2c70f4bb38089835768081eaa","productAsin":"B0C2SWQBMB","parentAsin":"B0DHJBQNZJ","metadata":{"videoImageUrl":"https://m.media-amazon.com/images/I/9192Lw1KPvL.jpg","videoURL":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7c037f81-7777-4677-bd52-ac9d4960b3e7/default.jobtemplate.hls.m3u8","title":"Full Specs Overview of Moto G 5G 2024","formattedDuration":"2:58","vendorName":"Milo B.","vendorCode":"milob.:shop","referenceId":"VideoCreatorPortal:176067e43b4542e0a956a9be44d3b6e5","fullReviewLink":"","videoDetailPageLink":"vdp/0e1df2f2c70f4bb38089835768081eaa/","asin":"0e1df2f2c70f4bb38089835768081eaa","vendorTrackingId":"onamzmilob08-20","relatedProductsAsins":"B0CWHXVLXG","videoAge":"Dec 1, 2024","closedCaptions":"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/13573f6e-e88e-4f10-bc25-17ddbdffd342.vtt","creatorType":"Influencer","publicName":"Milo B.","profileLink":"/shop/milob.","profileImageUrl":"https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/milob_1657646839908_original._CR418,0,533,533_._FMjpg_._SL34_.jpeg","rankingStrategy":"DEFAULT","aciContentId":"amzn1.vse.video.0e1df2f2c70f4bb38089835768081eaa","disclosureText":"","disclosureLabel":"","disclosureLink":"","videoMimeType":"application/x-mpegURL","entityId":"amzn1.account.AH53JKQ7WV3WZQLHH2U3TRZMBZ2Q","entityType":"customer","videoImageHeight":"2126","videoImageWidth":"3774","videoImagePhysicalId":"9192Lw1KPvL","videoImageExtension":"jpg","groupType":"G1","source":"VSE","highlightedAsin":"","status":"","orientation":"","channelId":"","carouselItems":"","isHotspotsEligible":"false"},"impressionRecorded":false,"lastPlayingTimestamp":0,"index":6},{"contentId":"0fe32b5c9b7c4699a0515486e4e0fad5","productAsin":"B0C2SWQBMB","parentAsin":"B0DHJBQNZJ","metadata":{"videoImageUrl":"https://m.media-amazon.com/images/I/91ynejXX-pL.jpg","videoURL":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/62f0734a-e583-4313-8f48-382f30366b06/default.jobtemplate.hls.m3u8","title":"Moto G Stylus 5G 2023 OR Samsung Galaxy A23 5G #thisorthat","formattedDuration":"3:38","vendorName":"Milo B.","vendorCode":"milob.:shop","referenceId":"VideoCreatorPortal:6b39ecdd807c4430b158ed56b680d806","fullReviewLink":"","videoDetailPageLink":"vdp/0fe32b5c9b7c4699a0515486e4e0fad5/","asin":"0fe32b5c9b7c4699a0515486e4e0fad5","vendorTrackingId":"onamzmilob08-20","relatedProductsAsins":"B0C2SWQBMB,B0C1P5NHZT,B09W36KRX3,B0C34JC9S5,B09W37L8MK","videoAge":"Sep 21, 2023","closedCaptions":"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1d573507-8b91-42ab-9893-4119709d018c.vtt","creatorType":"Influencer","publicName":"Milo B.","profileLink":"/shop/milob.","profileImageUrl":"https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/milob_1657646839908_original._CR418,0,533,533_._FMjpg_._SL34_.jpeg","rankingStrategy":"DEFAULT","aciContentId":"amzn1.vse.video.0fe32b5c9b7c4699a0515486e4e0fad5","disclosureText":"","disclosureLabel":"","disclosureLink":"","videoMimeType":"application/x-mpegURL","entityId":"amzn1.account.AH53JKQ7WV3WZQLHH2U3TRZMBZ2Q","entityType":"customer","videoImageHeight":"2126","videoImageWidth":"3796","videoImagePhysicalId":"91ynejXX-pL","videoImageExtension":"jpg","groupType":"G1","source":"VSE","highlightedAsin":"","status":"","orientation":"","channelId":"","carouselItems":"","isHotspotsEligible":"false"},"impressionRecorded":false,"lastPlayingTimestamp":0,"index":7},{"contentId":"050c53397abb41d98a76a27b4cd79d4f","productAsin":"B0C2SWQBMB","parentAsin":"B0DHJBQNZJ","metadata":{"videoImageUrl":"https://m.media-amazon.com/images/I/91-LeW0qVnL.jpg","videoURL":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5854c62b-cc0f-4937-9d60-86d9282a6839/default.jobtemplate.hls.m3u8","title":"Iphone 11 OR Moto G Stylus 5G 2023 #thisorthat","formattedDuration":"3:30","vendorName":"Milo B.","vendorCode":"milob.:shop","referenceId":"VideoCreatorPortal:e7f2bbde4bf14d9bb611900ed607b41a","fullReviewLink":"","videoDetailPageLink":"vdp/050c53397abb41d98a76a27b4cd79d4f/","asin":"050c53397abb41d98a76a27b4cd79d4f","vendorTrackingId":"onamzmilob08-20","relatedProductsAsins":"B07ZPKBL9V,B08BHW2X11,B0C2SWQBMB,B097M74GSR,B099RCQZ8Z","videoAge":"Sep 12, 2023","closedCaptions":"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/960063d5-effa-48f0-a294-85d0eb68a967.vtt","creatorType":"Influencer","publicName":"Milo B.","profileLink":"/shop/milob.","profileImageUrl":"https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/milob_1657646839908_original._CR418,0,533,533_._FMjpg_._SL34_.jpeg","rankingStrategy":"DEFAULT","aciContentId":"amzn1.vse.video.050c53397abb41d98a76a27b4cd79d4f","disclosureText":"","disclosureLabel":"","disclosureLink":"","videoMimeType":"application/x-mpegURL","entityId":"amzn1.account.AH53JKQ7WV3WZQLHH2U3TRZMBZ2Q","entityType":"customer","videoImageHeight":"2124","videoImageWidth":"3806","videoImagePhysicalId":"91-LeW0qVnL","videoImageExtension":"jpg","groupType":"G1","source":"VSE","highlightedAsin":"","status":"","orientation":"","channelId":"","carouselItems":"","isHotspotsEligible":"false"},"impressionRecorded":false,"lastPlayingTimestamp":0,"index":8},{"contentId":"0c4a01a736f845e984feaf8d43ddfb6f","productAsin":"B0C2SWQBMB","parentAsin":"B0DHJBQNZJ","metadata":{"videoImageUrl":"https://m.media-amazon.com/images/I/51YxiR-V6OL.jpg","videoURL":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3341def7-4957-426e-b0a6-c36a1d6ad403/default.jobtemplate.hls.m3u8","title":"Moto G54 Displav and Speakers Review: Are These Good Enough?","formattedDuration":"1:11","vendorName":"Family Pop TV","vendorCode":"familypoptv:shop","referenceId":"VideoCreatorPortal:e42078e900cd4002b19bbd81b1870752","fullReviewLink":"","videoDetailPageLink":"vdp/0c4a01a736f845e984feaf8d43ddfb6f/","asin":"0c4a01a736f845e984feaf8d43ddfb6f","vendorTrackingId":"onamzfamipopt-20","relatedProductsAsins":"B0CJQ5VJX9,B0C2SWQBMB","videoAge":"Nov 6, 2023","closedCaptions":"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9a9c53ce-1f16-4ac7-a930-64a217d80d15.vtt","creatorType":"Influencer","publicName":"Family Pop TV","profileLink":"/shop/familypoptv","profileImageUrl":"https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/familypoptv_1680016109300_original._FMjpg_._SL34_.jpeg","rankingStrategy":"DEFAULT","aciContentId":"amzn1.vse.video.0c4a01a736f845e984feaf8d43ddfb6f","disclosureText":"","disclosureLabel":"","disclosureLink":"","videoMimeType":"application/x-mpegURL","entityId":"amzn1.account.AHH6TCFQZBCMEFIG7ELZSZASHXLA","entityType":"customer","videoImageHeight":"360","videoImageWidth":"640","videoImagePhysicalId":"51YxiR-V6OL","videoImageExtension":"jpg","groupType":"G1","source":"VSE","highlightedAsin":"","status":"","orientation":"","channelId":"","carouselItems":"","isHotspotsEligible":"false"},"impressionRecorded":false,"lastPlayingTimestamp":0,"index":9}],"video":{"contentID":"0606e44ee6444ad987e3938db760be71","contentIDType":"VIDEO_ID","videoURL":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5b060b5b-5618-4998-b03e-8df00ff1c65b/default.jobtemplate.hls.m3u8","imageURL":"https://m.media-amazon.com/images/I/B1Hg9vwzHwL.png","vendorCode":"just_another_jeff:shop","vendorTrackingId":"onamzkri08120-20","videoReferenceId":"VideoCreatorPortal:08378afb098d4661a2f1b826d491229f","videoTitle":"Great Everyday Phone & Camera - Daily User of Moto G 2024","aciContentId":"amzn1.vse.video.0606e44ee6444ad987e3938db760be71","videoAge":"Nov 10, 2024"},"marketplaceID":"ATVPDKIKX0DER","locale":"en_US","product":{"contentID":"B0C2SWQBMB","contentIDType":"ASIN","parentContentID":"B0DHJBQNZJ","parentContentIDType":"ASIN"},"creativeId":"","weblabContext":[]}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/x/px/RAM3QH9iOlL2dGO2pamyfTUAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBNSrsx/v/%7B%22wh%22:962,%22ww%22:1912,%22sx%22:0,%22sy%22:0,%22ah%22:55,%22aw%22:1777,%22top%22:99,%22left%22:-7.5,%22v%22:%7B%22p%22:100,%22t%22:1,%22def%22:%22groupm%22%7D,%22ptv%22:2.483,%22ttv%22:1.07%7D"
+    path="/x/px/RAM3QH9iOlL2dGO2pamyfTUAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBNSrsx/v/%7B%22wh%22:962,%22ww%22:1912,%22sx%22:0,%22sy%22:0,%22ah%22:55,%22aw%22:1777,%22top%22:99,%22left%22:-7.5,%22v%22:%7B%22p%22:100,%22t%22:1,%22def%22:%22groupm%22%7D,%22ptv%22:2.483,%22ttv%22:1.07%7D"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/fdde1f0b-6586-406f-a862-96b1885efdf2.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="aax-us-iad.amazon.com" slaProfileEnabled="false"
+    uid="67b4a591-2ae8-4f20-8e5b-9ceb6d282ffd" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_de3517c4-52e7-43a7-bc32-f7588f4966df.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="aax-us-iad.amazon.com"/>
+    <header name="Referer" value="https://images-na.ssl-images-amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Server: Server&#xd;
+Date: Thu, 02 Jan 2025 12:33:05 GMT&#xd;
+Content-Type: image/gif&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: SQQXT48TMQ6CG2Q5C98W&#xd;
+Content-Encoding: gzip&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+Vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/e/xsp/imp" path="/e/xsp/imp" postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/fdde1f0b-6586-406f-a862-96b1885efdf2.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="aax-us-iad.amazon.com" slaProfileEnabled="false"
+    uid="4f49263a-1933-4d07-8c59-ee8b8da1464e" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_074170bb-a6d5-4713-a684-d9d904fdf295.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="b"
+        recordRawValue="RN9tsK3c8CaTEN4xGU1GHzsAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBLDKjk"
+        separator="="
+        value="RN9tsK3c8CaTEN4xGU1GHzsAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBLDKjk" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pj"
+        recordRawValue="%7B%22measurementMethod%22%3A%22cod_client%22%7D"
+        separator="="
+        value="{&quot;measurementMethod&quot;:&quot;cod_client&quot;}" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="aax-us-iad.amazon.com"/>
+    <header name="Referer" value="https://images-na.ssl-images-amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Server: Server&#xd;
+Date: Thu, 02 Jan 2025 12:33:05 GMT&#xd;
+Content-Type: image/gif&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: 6W2VPFDYXW353YW003XW&#xd;
+Content-Encoding: gzip&#xd;
+Cache-Control: no-store, max-age=0&#xd;
+Vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/x/px/RAM3QH9iOlL2dGO2pamyfTUAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBNSrsx/v/%7B%22wh%22:962,%22ww%22:1912,%22sx%22:0,%22sy%22:0,%22ah%22:55,%22aw%22:1777,%22top%22:99,%22left%22:-7.5,%22v%22:%7B%22p%22:50,%22t%22:1,%22def%22:%22iab%22%7D,%22ptv%22:2.482,%22ttv%22:1.069%7D"
+    path="/x/px/RAM3QH9iOlL2dGO2pamyfTUAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBNSrsx/v/%7B%22wh%22:962,%22ww%22:1912,%22sx%22:0,%22sy%22:0,%22ah%22:55,%22aw%22:1777,%22top%22:99,%22left%22:-7.5,%22v%22:%7B%22p%22:50,%22t%22:1,%22def%22:%22iab%22%7D,%22ptv%22:2.482,%22ttv%22:1.069%7D"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/fdde1f0b-6586-406f-a862-96b1885efdf2.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="aax-us-iad.amazon.com" slaProfileEnabled="false"
+    uid="b44216ec-dc2a-42cb-8312-661409a037be" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e91efc98-168e-4c34-9d44-e3db7b2f328b.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="aax-us-iad.amazon.com"/>
+    <header name="Referer" value="https://images-na.ssl-images-amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Server: Server&#xd;
+Date: Thu, 02 Jan 2025 12:33:05 GMT&#xd;
+Content-Type: image/gif&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: ZBNYXRRT71S8M4653KH1&#xd;
+Content-Encoding: gzip&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+Vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/e/xsp/imp" path="/e/xsp/imp" postType="6"
+    recordedArtifactZipFileName="team/vus/@amazon/%resources%/recorded-artifacts/fdde1f0b-6586-406f-a862-96b1885efdf2.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="aax-us-iad.amazon.com" slaProfileEnabled="false"
+    uid="0798f430-7ce6-430c-b322-8db5be414bdb" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_65e45790-0c06-4f95-97dd-958dcdb892a2.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="b"
+        recordRawValue="RPBwvUC7nJ8EuRca4ZBk69QAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICA2IG12"
+        separator="="
+        value="RPBwvUC7nJ8EuRca4ZBk69QAAAGUJwFD1gEAAAH0AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICA2IG12" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pj"
+        recordRawValue="%7B%22measurementMethod%22%3A%22cod_client%22%7D"
+        separator="="
+        value="{&quot;measurementMethod&quot;:&quot;cod_client&quot;}" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="aax-us-iad.amazon.com"/>
+    <header name="Referer" value="https://images-na.ssl-images-amazon.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Server: Server&#xd;
+Date: Thu, 02 Jan 2025 12:33:05 GMT&#xd;
+Content-Type: image/gif&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: PEPFHHPDC4REPYQQVTXD&#xd;
+Content-Encoding: gzip&#xd;
+Cache-Control: no-store, max-age=0&#xd;
+Vary: Content-Type,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
